@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(176, 169, 169);
+   
+}
+
+tr, th {
+    border: 1px solid rgb(177, 160, 160);
+    padding: 8px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.one {
+    width: 190px;
+}
+
+th {
+    padding: 10px;
+    width: 70px;
+    text-align: center;
+    background-color: rgb(245, 240, 240);
+
+}
+
+caption {
+    margin-bottom: 20px;
+}
+
+.last {
+    width: 150px;
+}
+td {
+    border: 1px solid rgb(135, 133, 133);
+    text-align: center;
+    background-color: rgb(226, 220, 220);
+}
+tr, th, td {
+    letter-spacing: 1px;
+}
